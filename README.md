@@ -16,11 +16,11 @@ c - сохранить уровень
 del - удалить объект
 
 # файлы
-[QBox.exe]{releases/tag/0.10.beta}
+[QBox.exe](releases/tag/0.10.beta)
 
 готовая игра
 
-[game.py]{scr/game.py}
+[game.py](scr/game.py)
 
 скрипт игры
 
