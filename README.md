@@ -16,7 +16,7 @@ c - сохранить уровень
 del - удалить объект
 
 # файлы
-[QBox.exe](releases/tag/0.10.beta)
+[QBox.exe](releases/tag/0.20.beta)
 
 готовая игра
 
